@@ -13,6 +13,7 @@
 		DDC546D71E54CC0B00D4361D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DDC546D51E54CC0B00D4361D /* Main.storyboard */; };
 		DDC546D91E54CC0B00D4361D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DDC546D81E54CC0B00D4361D /* Assets.xcassets */; };
 		DDC546DC1E54CC0B00D4361D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DDC546DA1E54CC0B00D4361D /* LaunchScreen.storyboard */; };
+		DDC546E81E562D4E00D4361D /* NewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DDC546E71E562D4E00D4361D /* NewViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		DDC546D81E54CC0B00D4361D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DDC546DB1E54CC0B00D4361D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DDC546DD1E54CC0B00D4361D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DDC546E61E562D4E00D4361D /* NewViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewViewController.h; sourceTree = "<group>"; };
+		DDC546E71E562D4E00D4361D /* NewViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				DDC546D01E54CC0B00D4361D /* AppDelegate.m */,
 				DDC546D21E54CC0B00D4361D /* ViewController.h */,
 				DDC546D31E54CC0B00D4361D /* ViewController.m */,
+				DDC546E61E562D4E00D4361D /* NewViewController.h */,
+				DDC546E71E562D4E00D4361D /* NewViewController.m */,
 				DDC546D51E54CC0B00D4361D /* Main.storyboard */,
 				DDC546D81E54CC0B00D4361D /* Assets.xcassets */,
 				DDC546DA1E54CC0B00D4361D /* LaunchScreen.storyboard */,
@@ -153,6 +158,7 @@
 				DDC546D41E54CC0B00D4361D /* ViewController.m in Sources */,
 				DDC546D11E54CC0B00D4361D /* AppDelegate.m in Sources */,
 				DDC546CE1E54CC0B00D4361D /* main.m in Sources */,
+				DDC546E81E562D4E00D4361D /* NewViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
